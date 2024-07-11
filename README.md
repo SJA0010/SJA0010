@@ -29,10 +29,16 @@ I have worked for the last few years with consultancy: <strong>legal</strong>, g
 - **Tools**: Android Studio, Visual Studio Code, Xcode, Git, Firebase
 
 
-Emails:
-- borgesadvocacia@adv.oabsp.org.br
-- jonataborges01@gmail.com
-- jonatas@iris.finance
+## Contact Me
+- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/subhan-abbasi-03b01b252/).
+- 🌐 Connect with me on [Instagram](https://www.instagram.com/subhan_07072/).
+- 📧 Email me at MSJA010@gmail.com.
+- 📱 Contact me on WhatsApp at [923317364550](https://wa.me/923317364550).
 
+- <div align="center">
+  <a href="https://www.linkedin.com/in/subhan-abbasi-03b01b252/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+  <a href="mailto:MSJA010@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" /></a>
+  <a href="https://wa.me/923317364550" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/whatsapp.png" width="50" /></a>
+</div>
 
 
