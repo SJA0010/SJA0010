@@ -42,42 +42,62 @@ For the last few years, I have worked in consultancy: <strong>legal</strong>, ge
 <div align="center">
   <div style="text-align: center; display: inline-block; margin: 20px; width: 45%;">
     <div style="border: 1px solid #ccc; border-radius: 5px; padding: 10px;">
-      <img src="https://github.com/SJA0010/SJA0010/blob/main/Copy%20of%20web%20app%20ui%20(1).jpg" width="100%" style="border-radius: 5px;">
+       <div style="text-align: left; margin-top: 10px;">
+        <strong>Pet-Care</strong><br>
+      </div>
+      <a href="https://github.com/SJA0010/petcare" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/SJA0010/SJA0010/blob/main/Copy%20of%20web%20app%20ui%20(1).jpg" width="100%" style="border-radius: 5px;">
+      </a>
       <div style="text-align: left; margin-top: 10px;">
-        <strong>App Name 1</strong><br>
-        Description of App 1 goes here.
+        Pet-care app was commercial app for vet doctors and patients for scheduling a appointment and keeping history of old pets. I put an magnifying efforts to make it look attract and Alhumdullia our client was satisfied and happy to see out efforts...... 🐾 Excited to share a sneak peek of my latest pet care UI design project! 🐶🐱 I've poured my passion for pets into creating a seamless and visually appealing experience for pet owners. From interactive dashboards to user-friendly interfaces, every detail is designed to make caring for our furry friends a joy. Swipe through to see the love and effort that went into this project! 🐾✨
+      </div>
+    </div>
+  </div>
+
+<br>
+
+  <div style="text-align: center; display: inline-block; margin: 20px; width: 45%;">
+    <div style="border: 1px solid #ccc; border-radius: 5px; padding: 10px;">
+       <div style="text-align: left; margin-top: 10px;">
+        <strong>Dairy Food App</strong><br>
+      </div>
+      <a href="https://github.com/SJA0010/food_dairy_app" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/SJA0010/SJA0010/blob/main/Copy%20of%20web%20app%20ui%20(2).jpg" width="100%" style="border-radius: 5px;">
+      </a>
+      <div style="text-align: left; margin-top: 10px;">
+        🥛 Excited to share a sneak peek of my latest Dairy Food app design project! 🍎🥦 I've poured my passion for healthy living into creating a seamless and visually appealing experience for those who want to manage their nutrition and wellness. From interactive dashboards to user-friendly interfaces, every detail is designed to make tracking your healthy eating habits a joy. This app serves as your daily reminder to eat nutritious food, manage calories, and keep track of your BMI. Swipe through to see the love and effort that went into this project! 🥛✨
       </div>
     </div>
   </div>
   
+<br>
+
   <div style="text-align: center; display: inline-block; margin: 20px; width: 45%;">
     <div style="border: 1px solid #ccc; border-radius: 5px; padding: 10px;">
-      <img src="https://github.com/SJA0010/SJA0010/blob/main/Copy%20of%20web%20app%20ui%20(2).jpg" width="100%" style="border-radius: 5px;">
+       <div style="text-align: left; margin-top: 10px;">
+        <strong>Car-Shop</strong><br>
+      </div>
+      <a href="https://github.com/SJA0010/Car-shop" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/SJA0010/SJA0010/blob/main/Copy%20of%20web%20app%20ui%20(3).jpg" width="100%" style="border-radius: 5px;">
+      </a>
       <div style="text-align: left; margin-top: 10px;">
-        <strong>App Name 2</strong><br>
-        Description of App 2 goes here.
+        This was a 3-month-long project, but the wait was worth it. I, along with my team, were engaged in this project. And I'm committed to satisfying my clients in the future with the same spirit. Check out this new E-commerce app for auto parts! With a satisfying response from the client, I converted Figma into Flutter UI to create a seamless shopping experience. This app allows you to easily buy and sell car parts online, with the convenience of online payment and delivery straight to your doorstep. Don't waste time searching for the parts you need - order them through this app today!
       </div>
     </div>
   </div>
-  
-  <br>
-  
+
+<br>
+
   <div style="text-align: center; display: inline-block; margin: 20px; width: 45%;">
     <div style="border: 1px solid #ccc; border-radius: 5px; padding: 10px;">
-      <img src="https://github.com/SJA0010/SJA0010/blob/main/Copy%20of%20web%20app%20ui%20(3).jpg" width="100%" style="border-radius: 5px;">
-      <div style="text-align: left; margin-top: 10px;">
-        <strong>App Name 3</strong><br>
-        Description of App 3 goes here.
+       <div style="text-align: left; margin-top: 10px;">
+        <strong>Global</strong><br>
       </div>
-    </div>
-  </div>
-  
-  <div style="text-align: center; display: inline-block; margin: 20px; width: 45%;">
-    <div style="border: 1px solid #ccc; border-radius: 5px; padding: 10px;">
-      <img src="https://github.com/SJA0010/SJA0010/blob/main/Copy%20of%20web%20app%20ui.jpg" width="100%" style="border-radius: 5px;">
+      <a href="https://github.com/SJA0010/chat_app" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/SJA0010/SJA0010/blob/main/Copy%20of%20web%20app%20ui.jpg" width="100%" style="border-radius: 5px;">
+      </a>
       <div style="text-align: left; margin-top: 10px;">
-        <strong>App Name 4</strong><br>
-        Description of App 4 goes here.
+        The app, designed for auto parts shopping, offers a range of features to enhance user interaction and convenience. Users can create accounts, sign in, send and manage requests, and engage in real-time chat. The chatroom supports text messaging, image sharing, voice messages, and even video and audio calls, ensuring comprehensive communication capabilities. All functionalities and validations are meticulously implemented to provide a reliable and satisfying shopping experience.
       </div>
     </div>
   </div>
